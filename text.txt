@@ -1,1 +1,1 @@
-<ity>chennai
+city:bangalore
