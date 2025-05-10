@@ -1,1 +1,1 @@
-<ity>bangalore
+city:bangalore
